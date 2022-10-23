@@ -1,7 +1,7 @@
 
 ## Usage :
 
-If you don't want to build from source, go to folder "lib" and jump to step 4. 
+If you don't want to build from source, go to folder "lib" and jump to step 3. 
 
 1. Build your project using maven or your preferred editor (skip tests if you don't feed the tests JSON strings correctly),
    
